@@ -22,10 +22,15 @@ Pour la correction install `zoom` https://zoom.us
 
 Les exos ont un ordre. D'abord 
 'Swap'
+
 Ensuite 'While'
+
 Ensuite 'Print_digit'
+
 Ensuite 'Double_while'
+
 Ensuite 'Find_in_array'
+
 Ensuite 'Sort'
 
 J'espere que c'est assez evolutif et pas trop dur. Bon courage ! Tu peux le faire ;) 

@@ -20,3 +20,13 @@ Pour la correction install `zoom` https://zoom.us
 ça va nous permettre de parler en video sur linux et de partager nos ecrans pour montrer ce qu'on tape.
 
 
+Les exos ont un ordre. D'abord 
+'Swap'
+Ensuite 'While'
+Ensuite 'Print_digit'
+Ensuite 'Double_while'
+Ensuite 'Find_in_array'
+Ensuite 'Sort'
+
+J'espere que c'est assez evolutif et pas trop dur. Bon courage ! Tu peux le faire ;) 
+

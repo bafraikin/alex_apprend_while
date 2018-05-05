@@ -8,8 +8,11 @@ Tu n'as le droit à aucune fonction. Les seuls chose qui te sont autorisé sont 
 Tu peux bien evidemment enchainer les comparaisons afin d'en faire une plus complexe.
 
 https://fr.wikiversity.org/wiki/Ruby/Boucles
+
 https://fr.wikiversity.org/wiki/Ruby/Conditions
+
 https://fr.wikibooks.org/wiki/Programmation_Ruby/Contr%C3%B4le
+
 http://a-io.eu/le-logiciel-projet_a/developpement-du-logiciel/kit-du-aioeur/-ruby-les-booleens-et-les-comparaisons
 
 Tu n'es pas obligé de tout voir, ni meme de tout comprendre. Moi meme je ne sais pas tout ce qu'il y a dans ces ressources. Considere juste que si tu as besoin cela peut t'aider.

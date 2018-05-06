@@ -33,6 +33,8 @@ Ensuite 'Print_digit'
 
 Ensuite 'Double_while'
 
+Ensuite 'Double_while2'
+
 Ensuite 'Find_in_array'
 
 Ensuite 'Sort'

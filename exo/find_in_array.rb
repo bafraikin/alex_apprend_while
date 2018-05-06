@@ -12,6 +12,8 @@ array = [rand(10),rand(10),rand(10),rand(10),rand(10),rand(10),rand(10),rand(10)
 
 
 
+
+
 #Niveau 2 Ton objectif sera de trouver le 1er index du tableau qui contient la valeur la plus haute de tout le tableau. Par exemple si il y 5 fois '8' dans le tableau mais pas de 9 ton programme retournera l'index de la 1ere case du tableau qui contient un 8
 
 
